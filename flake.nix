@@ -44,8 +44,16 @@
               cargo
               openssl
               sqlite
+            ];
+
+            packages = [
+              markdownlint-cli2
               rustfmt
               rust-analyzer
+              vale
+              valeStyles.alex
+              valeStyles.google
+              valeStyles.proselint
             ];
 
             RUSTC_VERSION = overrides.toolchain.channel;
