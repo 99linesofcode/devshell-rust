@@ -8,9 +8,10 @@ This devshell is intended to be pulled into your project as a git submodule. The
 
 To use `devshell-rust` and assuming you are using `nix-direnv`:
 
-1. Add is as a git submodule `git submodule add https://github.com/99linesofcode/devshell-rust ./devshell`
+1. Add it as a git submodule `git submodule add https://github.com/99linesofcode/devshell-rust ./devshell`
 1. Define a `.envrc` in your project root folder `echo use flake ./devshell >> .envrc`
 3. Run `direnv allow`
+1. Add `.direnv/` to your `.gitignore`
 
 ## Contributing
 
