@@ -1,4 +1,13 @@
-# 0.1.0 (2025-03-28)
+## [0.1.1](https://github.com/99linesofcode/devshell-rust/compare/v0.1.0...v0.1.1) (2026-03-25)
+
+
+### Bug Fixes
+
+* **vale:** drop google styleguide ([fc83470](https://github.com/99linesofcode/devshell-rust/commit/fc834708656938cc5f961af83c05a203462f2bd3))
+
+
+
+# [0.1.0](https://github.com/99linesofcode/devshell-rust/compare/94a471c35737329fa1792ea4b6409ba61aa0714e...v0.1.0) (2025-03-28)
 
 
 ### Features
