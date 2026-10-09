@@ -47,9 +47,11 @@
             ];
 
             packages = [
+              actionlint
               markdownlint-cli2
               rustfmt
               rust-analyzer
+              shellcheck
               vale
               valeStyles.alex
               valeStyles.google
