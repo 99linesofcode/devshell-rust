@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/99linesofcode/devshell-rust/compare/v0.1.1...v0.2.0) (2026-11-23)
+
+
+### Features
+
+* **devshell:** add cargo-deny ([8e76c37](https://github.com/99linesofcode/devshell-rust/commit/8e76c37d7702692bdb85c6c235a12d1e2c7fcc63))
+
+
+
 ## [0.1.1](https://github.com/99linesofcode/devshell-rust/compare/v0.1.0...v0.1.1) (2026-03-25)
 
 
