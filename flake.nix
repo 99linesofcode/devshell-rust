@@ -48,6 +48,7 @@
 
             packages = [
               actionlint
+              cargo-deny
               markdownlint-cli2
               rustfmt
               rust-analyzer
